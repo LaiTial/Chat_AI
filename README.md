@@ -34,7 +34,7 @@
 
 ![temp_4](https://github.com/LaiTial/Chat/assets/39575609/5c30fbe0-1a5d-4e2f-b54f-3bef148d16ef)
                                       
-## 작품 구성도
+## 딥러닝 설계계
 ### 1. 챗봇 응답 흐름도
 <img src="https://github.com/LaiTial/Chat_AI/assets/39575609/99115bcc-d568-456f-a7d5-5eae62d4c7d0" alt="이미지 설명" width="900">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
@@ -58,6 +58,7 @@
 
 ### 6. 유사도 계산
 <img src="https://github.com/LaiTial/Chat_AI/assets/39575609/6fc9443c-2bf8-4991-b146-225a66ca920d" alt="이미지 설명" width="700">
+<img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 7. 일상 답변 생성 모델
