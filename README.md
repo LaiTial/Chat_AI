@@ -40,24 +40,24 @@
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 2. 질문 분류 모델
-<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/5c01bd60-31b1-47f4-b048-6dc7913f77d7" alt="blank" width="700">
+<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/5c01bd60-31b1-47f4-b048-6dc7913f77d7" alt="blank" width="800">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 3. 종 분류 모델
-<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/53a5c08d-c816-444e-aeb2-b986cb9a1713" alt="이미지 설명" width="700">
+<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/53a5c08d-c816-444e-aeb2-b986cb9a1713" alt="이미지 설명" width="800">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 4. 의도 분류 모델
-<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/6c1b4df2-555f-4f04-8017-982c074293a2" alt="이미지 설명" width="700">
+<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/6c1b4df2-555f-4f04-8017-982c074293a2" alt="이미지 설명" width="800">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 5. 유사도 판단 모델
-<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/561c569e-e659-4c13-bbcc-7e5fcb3d07db" alt="이미지 설명" width="700">
+<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/561c569e-e659-4c13-bbcc-7e5fcb3d07db" alt="이미지 설명" width="800">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 6. 유사도 계산
-<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/6fc9443c-2bf8-4991-b146-225a66ca920d" alt="이미지 설명" width="700">
+<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/6fc9443c-2bf8-4991-b146-225a66ca920d" alt="이미지 설명" width="900">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
@@ -66,9 +66,8 @@
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
 
 ### 8. 동물 답변 생성 모델
-<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/155e899e-35d8-435d-8cd3-5491046c710f" alt="이미지 설명" width="700">
+<img src="https://github.com/LaiTial/Chat_AI/assets/39575609/96e1ff0f-36b5-454e-bea3-fc3cc0744f69" alt="이미지 설명" width="700">
 <img src="https://github.com/LaiTial/Chat/assets/39575609/e92ac0ca-1c2a-4d2c-bdc7-7285c7ab9ebd" alt="blank" width="700">
-
 
 ## DB
 ### 질문-답변
