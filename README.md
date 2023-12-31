@@ -9,7 +9,7 @@
 ![temp_4](https://github.com/LaiTial/Chat/assets/39575609/ee5a25ef-329a-41c0-a6f8-e92039a09f41)
 
 ## 프로젝트 소개
-#### 반려동물을 키우는 사람들을 위한 도움을 주는 챗봇의 AI Server & AI model
+#### 반려동물을 키우는 사람들을 위한 도움을 주는 챗봇의 Flask Server & AI model
 ![temp_4](https://github.com/LaiTial/Chat/assets/39575609/46f3d7b3-262b-4fb3-a02b-7d591d0695b2)
 
 ## 개발 기간
