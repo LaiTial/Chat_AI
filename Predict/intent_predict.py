@@ -1,0 +1,29 @@
+# 03. 의도 예측(Predict Intent)_v2.ipynb
+# ■ 의도 분류기를 이용해 질문 의도 예측하기
+
+# 필요한 모듈 import
+import torch
+import tensorflow as tf
+
+def predict_class(sentence, modelZip):
+    
+    # 토크나이저, 모델, 라벨 인코딩 객체 불러오기
+    representation_model, le, model = modelZip
+
+    # 임베딩
+    predict_X = representation_model.encode(sentence, convert_to_tensor=True) # 입력 질문의 표현을 계산
+    
+    # shape로 이차원으로 변경
+    predict_X = predict_X.view(1, -1)
+    
+    # 데이터 타입 변환
+    
+    arr = predict_X.detach().numpy() # PyTorch Tensor를 NumPy 배열로 변환
+    predict_X = tf.convert_to_tensor(arr, dtype=tf.float32) # NumPy 배열을 TensorFlow Tensor로 변환
+    
+    # 예측
+    result = model.predict(predict_X) # 예측
+    encoded_labels  = torch.topk(torch.tensor(result), k=2) # 가장 확률이 높은 label 2개 찾아서 반환
+    decoded_labels = le.inverse_transform(encoded_labels.indices[0]) # 역변환으로 label명 반환
+
+    return decoded_labels
